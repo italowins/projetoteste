@@ -12,6 +12,7 @@ public class Main {
         System.out.printf("%.4f%n", x);
         Locale.setDefault(Locale.US);
         System.out.printf("%.4f%n", x);
+        System.out.println("Testando COMMIT de casa");
     }
 
 }
